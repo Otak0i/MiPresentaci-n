@@ -1,2 +1,2 @@
-# MiPresentaci-n
-Una pagina web en la que me presento
+# MiPresentacion
+Una página web en la que me presento
